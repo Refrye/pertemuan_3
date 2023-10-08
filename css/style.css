@@ -12,9 +12,10 @@ body {
 }
 .cover {
     height: 300px;
-    background-image: url(img/slider.jpg);
+    background-image: url(https://i.pinimg.com/736x/63/23/a6/6323a638dbde8d63efe6ff15c65aa797.jpg); 
     background-size: cover;
 }
+/* https://i.pinimg.com/736x/63/23/a6/6323a638dbde8d63efe6ff15c65aa797.jpg,  https://i.pinimg.com/736x/cf/f3/36/cff3364e60166672a4248ee89751fc45.jpg*/
 .content h1 {
     font-size: 30px;
     margin-left: 20px;
